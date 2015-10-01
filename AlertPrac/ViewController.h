@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+- (IBAction)onTouchedAlert:(id)sender;
 @end
 
